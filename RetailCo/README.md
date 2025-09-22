@@ -1,5 +1,10 @@
 # XYZ E-commerce Data Analysis & Insights
 
+## 📄 Project Files
+
+- [`XYZ_SQL_Case_Study_Solutions.pdf`](./XYZ_SQL_Case_Study_Solutions.pdf) – Contains MySQL query solutions along with screenshots of output from the MySQL Workbench.
+
+
 ## 🚀 Project Overview
 
 As a Data Analyst at XYZ, I conducted a comprehensive analysis of e-commerce data to uncover deep insights into customer behavior, order trends, and regional dynamics in Brazil. The goal was to enable data-driven decision-making to optimize operations, improve customer satisfaction, and boost revenue growth.
@@ -15,16 +20,6 @@ This project showcases my expertise in SQL (MySQL / BigQuery), data exploration,
 - **Customer Profiling:** Map customer distribution across cities and states; analyze peak order times especially for Brazilian customers.
 - **Operational Efficiency:** Calculate delivery times, compare estimated vs actual delivery dates, and assess freight costs by region.
 - **Economic Impact:** Quantify money flow via payments, analyze cost increases year-over-year, and evaluate payment methods and installment behavior.
-
----
-
-## 🔍 Key Insights & Impact
-
-- **Growth Trajectory:** Detected a consistent upward trend in orders year-on-year, with notable monthly seasonality peaks aligned to marketing campaigns and holidays.
-- **Customer Distribution:** Identified top-performing states and cities driving e-commerce activity, enabling targeted marketing strategies.
-- **Delivery Performance:** Pinpointed regions with fastest deliveries and those needing logistical improvements by analyzing actual vs estimated delivery timelines.
-- **Freight Cost Optimization:** Highlighted states with highest and lowest freight costs, offering opportunities for cost savings.
-- **Payment Behavior:** Uncovered preferred payment types and installment usage trends, guiding finance and customer experience enhancements.
 
 ---
 
