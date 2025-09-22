@@ -8,7 +8,7 @@ This project focuses on performing **descriptive statistics** and **probability 
 
 ## 📓 Project Notebook
 
-You can view the complete analysis in the [Jupyter Notebook]().
+You can view the complete analysis in the [Jupyter Notebook](FitGear_Case_Study.ipynb).
 
 
 ## 📊 Objective
