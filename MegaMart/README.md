@@ -14,7 +14,7 @@ The analysis leverages **Confidence Intervals** and the **Central Limit Theorem 
 
 ## 📓 Project Notebook
 
-You can view the complete analysis in the [Jupyter Notebook](./Megamart Business Case.ipynb).
+You can view the complete analysis in the [Jupyter Notebook](./Megamart_Business_Case.ipynb).
 
 ---
 
