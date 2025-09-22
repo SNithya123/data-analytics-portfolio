@@ -2,7 +2,7 @@
 
 ## 📄 Project Files
 
-- [`XYZ_SQL_Case_Study_Solutions.pdf`](./XYZ_SQL_Case_Study_Solutions.pdf) – Contains MySQL query solutions along with screenshots of output from the MySQL Workbench.
+- [`XYZ_SQL_Case_Study_Solutions.pdf`](XYZ_Case_Study_(MYSQL)_-_Solution.pdf) – Contains MySQL query solutions along with screenshots of output from the MySQL Workbench.
 
 
 ## 🚀 Project Overview
