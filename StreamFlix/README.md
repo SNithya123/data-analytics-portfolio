@@ -13,7 +13,7 @@ As a data analyst, the insights you generate from this analysis aim to assist co
 
 ## 📓 Project Notebook
 
-You can view the complete analysis in the [Jupyter Notebook](./).
+You can view the complete analysis in the [Jupyter Notebook](./StreamFlix_Case_Study.ipynb).
 
 ---
 
