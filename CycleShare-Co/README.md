@@ -8,6 +8,12 @@ Using statistical techniques like **t-tests, ANOVA, and chi-square tests**, we v
 
 ---
 
+## 📓 Project Notebook
+
+You can view the complete analysis in the [Jupyter Notebook](./).
+
+---
+
 ## 🧰 Tools & Technologies
 
 - **Language:** Python  
