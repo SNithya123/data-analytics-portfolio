@@ -73,19 +73,6 @@ Analyzed factors affecting demand for shared electric bikes using statistical hy
 
 ---
 
-### 6. 🚚 FastShip Inc. – Feature Engineering for Logistics (Python – Data Cleaning & Transformation)
-**Domain**: Logistics / Supply Chain | **Skills**: Feature Engineering, Data Cleaning, Merging, Standardization
-
-Cleaned and transformed logistics delivery data to extract meaningful features for ML model preparation. Highlights include:
-
-- Extracted state, date, and duration features from messy text/timestamp columns
-- Engineered delivery time, OSRM vs actual time/distance
-- Detected outliers and applied normalization/standardization
-
-**→ [View Project](./FastShip-Inc/README.md)**
-
----
-
 ## 🛠️ Tools & Technologies Used
 
 - **Languages**: SQL (MySQL, BigQuery), Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy)
