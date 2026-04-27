@@ -1,13 +1,13 @@
-# 🧠 Data Analytics Portfolio – S.Nithya
+# Data Analytics Portfolio – S.Nithya
 
 Hi! I’m a **Data Analyst / Data Scientist** passionate about using data to solve real-world business problems.  
 This portfolio showcases a collection of **hands-on case studies** across SQL, Python, Statistics, Feature Engineering, and Business Intelligence. Each project simulates realistic business challenges and demonstrates how I approach **data exploration, insight generation, and decision-making.**
 
 ---
 
-## 📁 Featured Projects
+## Featured Projects
 
-### 1. 🛒RetailCo E-Commerce Case Study (SQL – MySQL/BigQuery)
+### 1.RetailCo E-Commerce Case Study (SQL – MySQL/BigQuery)
 **Domain**: E-commerce | **Skills**: SQL, Time Series, Freight Analysis, Customer Behavior
 
 Analyzed Brazil-based e-commerce data to uncover trends in customer orders, delivery patterns, and payment behavior across states and cities. Delivered insights on:
@@ -21,7 +21,7 @@ Analyzed Brazil-based e-commerce data to uncover trends in customer orders, deli
 
 ---
 
-### 2. 🎬StreamFlix Content Strategy (Python – Pandas, Matplotlib, Seaborn)
+### 2.StreamFlix Content Strategy (Python – Pandas, Matplotlib, Seaborn)
 **Domain**: OTT / Media | **Skills**: Exploratory Data Analysis, Visualization, Business Insights
 
 Explored Streamflix’s global dataset to identify content trends by country, format (TV vs Movies), genres, and cast. Recommendations focus on:
@@ -34,7 +34,7 @@ Explored Streamflix’s global dataset to identify content trends by country, fo
 
 ---
 
-### 3. 🏃‍♂️ FitGear Customer Segmentation (Python – Stats & Probability)
+### 3. FitGear Customer Segmentation (Python – Stats & Probability)
 **Domain**: Fitness / Retail | **Skills**: Descriptive Stats, Probability, Customer Profiling
 
 Performed exploratory and probabilistic analysis to segment customers buying different types of treadmills (KP281, KP481, KP781). Work included:
@@ -47,7 +47,7 @@ Performed exploratory and probabilistic analysis to segment customers buying dif
 
 ---
 
-### 4. 🛍️ MegaMart – Gender-wise Spending & Confidence Intervals (Python – CLT & Stats)
+### 4. MegaMart – Gender-wise Spending & Confidence Intervals (Python – CLT & Stats)
 **Domain**: Retail / Consumer Behavior | **Skills**: CLT, Hypothesis Testing, Confidence Intervals
 
 Used the Central Limit Theorem to test whether women spend more than men during Black Friday, using sampled customer purchase data. Extended the analysis to:
@@ -60,7 +60,7 @@ Used the Central Limit Theorem to test whether women spend more than men during 
 
 ---
 
-### 5. 🚲 CycleShare Co. Bike Demand Forecasting (Python – Hypothesis Testing)
+### 5. CycleShare Co. Bike Demand Forecasting (Python – Hypothesis Testing)
 **Domain**: Mobility / Rentals | **Skills**: T-test, ANOVA, Chi-square, EDA
 
 Analyzed factors affecting demand for shared electric bikes using statistical hypothesis testing. Key questions explored:
@@ -73,7 +73,7 @@ Analyzed factors affecting demand for shared electric bikes using statistical hy
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## Tools & Technologies Used
 
 - **Languages**: SQL (MySQL, BigQuery), Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy)
 - **Concepts**: EDA, Statistical Inference, Hypothesis Testing, Probability, CLT, ANOVA
@@ -83,12 +83,12 @@ Analyzed factors affecting demand for shared electric bikes using statistical hy
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/nithya-sathananthan-657a29219)
 - [GitHub](https://github.com/SNithya123)
 
 ---
 
-> 📌 _Each project is based on real-world business cases and evaluated on metrics like insights generated, code quality, visual storytelling, and recommendation clarity._
+> _Each project is based on real-world business cases and evaluated on metrics like insights generated, code quality, visual storytelling, and recommendation clarity._
 
